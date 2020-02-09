@@ -4,8 +4,8 @@ The code has been made to suite a custom dataset derived from YawDD.The dataset 
 
 First run yawnPreprocess.py then run yawnCNN.py
 
-Run the code in a machine with all the packages installed
-Necessary Requirements
+Run the code with all the packages installed
+Necessary Requirements:
 
 OpenCV3
 Python3
