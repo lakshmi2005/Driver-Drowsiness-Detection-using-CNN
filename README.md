@@ -6,14 +6,14 @@ First run yawnPreprocess.py then run yawnCNN.py
 
 Run the code with the following packages installed:
 
--OpenCV3
--Python3
--Tensorflow 
--Keras
--Matplotlib
--Numpy
--Scikit-learn
--Theano
--Anaconda 3
--CUDA 
--cudnn
+- OpenCV3
+- Python3
+- Tensorflow 
+- Keras
+- Matplotlib
+- Numpy
+- Scikit-learn
+- Theano
+- Anaconda 3
+- CUDA v9 or v10
+- cudnn
